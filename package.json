@@ -34,7 +34,7 @@
     "@types/redux": "^3.6.31",
     "@typescript-eslint/eslint-plugin": "^5.47.1",
     "@typescript-eslint/parser": "^5.47.1",
-    "eslint": "^8.31.0",
+    "eslint": "^8.32.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-formatter-pretty": "^4.1.0",
