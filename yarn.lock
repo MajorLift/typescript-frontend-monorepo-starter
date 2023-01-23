@@ -971,7 +971,7 @@ __metadata:
     "@swc/core": ^1.3.27
     "@swc/helpers": ^0.4.14
     "@tailwindcss/forms": ^0.5.3
-    "@tanstack/react-query": ^4.22.0
+    "@tanstack/react-query": ^4.22.4
     "@testing-library/jest-dom": ^5.16.5
     "@testing-library/react": ^13.4.0
     "@types/jsdom": ^20.0.1
@@ -1307,18 +1307,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tanstack/query-core@npm:4.22.0":
-  version: 4.22.0
-  resolution: "@tanstack/query-core@npm:4.22.0"
-  checksum: d24c13f8e21b65380230055a6673ae670aca5ee550c2f9a24b89fd3ac5243b465bb25f61b29da8ca285fc7fb0f4c2f8add3864f742eafac5131e777f3e52767a
+"@tanstack/query-core@npm:4.22.4":
+  version: 4.22.4
+  resolution: "@tanstack/query-core@npm:4.22.4"
+  checksum: 01663a36ad7ed5c43cb7cfa8ffcdf7df4de05cf68e9991bbc339be2a656a1c94f69e0b5405dfa972cf877b09dac3cba4cbdf8c91f5dffabc46ac32ec0ce5f4bb
   languageName: node
   linkType: hard
 
-"@tanstack/react-query@npm:^4.22.0":
-  version: 4.22.0
-  resolution: "@tanstack/react-query@npm:4.22.0"
+"@tanstack/react-query@npm:^4.22.4":
+  version: 4.22.4
+  resolution: "@tanstack/react-query@npm:4.22.4"
   dependencies:
-    "@tanstack/query-core": 4.22.0
+    "@tanstack/query-core": 4.22.4
     use-sync-external-store: ^1.2.0
   peerDependencies:
     react: ^16.8.0 || ^17.0.0 || ^18.0.0
@@ -1329,7 +1329,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: b146774b44a79dd5a6412d981ce04790e66da5a36f907a03c85c36f50a38fb4e4dfbfca7b1561c86b39fb0df1c0c1ae0a0ef2930c06b444da3f430b9bad450f1
+  checksum: 33eda9b0b91a79880f03f31d5c6d4e15fbd0a16c17d4a7bb9bdca8174f7574a6596fca6adb5b5a91d6d56bb0b24ef66c17225df4d33e058f4d0ebed314d64be1
   languageName: node
   linkType: hard
 
